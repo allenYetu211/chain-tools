@@ -2,5 +2,4 @@
 
 ### Functions
 
-- [x] create wallets
-# chain-tools
+- [x] Create wallets
